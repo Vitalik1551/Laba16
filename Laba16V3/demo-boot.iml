@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map />
+        <naming-strategy-map />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="C:\Users\User177\IdeaProjects\untitled1\Laba16V3\src\main\resources\hibernate.cfg.xml" />
+      </configuration>
+    </facet>
+  </component>
+</module>
